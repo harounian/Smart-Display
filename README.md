@@ -1,1 +1,1 @@
-#Smart Display
+Smart Display
