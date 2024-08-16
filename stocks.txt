@@ -1,0 +1,7 @@
+AAPL
+BA
+TSLA
+GC
+QCOM
+BTC
+ETH
