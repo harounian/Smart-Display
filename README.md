@@ -7,4 +7,4 @@ Smart internet-connected display that shows time, weather and stock information.
 -   Weather
 -   Stocks
     
-More information: [harounian.github.io/smartdisplay.html)](https://harounian.github.io/)
+More information: [harounian.github.io/smartdisplay.html](https://harounian.github.io/)
